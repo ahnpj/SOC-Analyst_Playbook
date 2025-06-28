@@ -1,4 +1,3 @@
-
 🔍 **Overview:**
 * Respond to a suspected phishing email reported by an end-user or detected by an email security gateway.
 
