@@ -55,17 +55,17 @@
 * Task 4: Conduct user awareness
   * Description: Targeted training for affected users
 
-📊 Metrics & KPIs
+📊 **Metrics & KPIs**
 * Time to detect (TTD)
 * Time to contain (TTC)
 * Number of affected users
 * Recurrence of similar phishing types
 
-📚 References
+📚 **References**
 * MITRE ATT&CK T1566.001 (Phishing via Email)
 * NIST SP 800-61 Rev. 2 (Computer Security Incident Handling Guide)
 
-🧰 Incident Checklist Template
+🧰 **Incident Checklist Template**
 
 - [ ] Validate alert source and category
 - [ ] Review related logs in SIEM
