@@ -45,7 +45,7 @@
 * Ensure no persistence mechanisms (scheduled tasks, registry keys, etc.)
 * Reset credentials if account compromise is suspected
 
-5. Post-Incident
+5. _Post-Incident_
 * Task 1: Report to threat intel team	
   * Description: Share new IOCs, sender domains, etc.
 * Task 2: Update detection rules
